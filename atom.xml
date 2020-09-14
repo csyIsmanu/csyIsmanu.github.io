@@ -3,11 +3,11 @@
   <title>CSYBLOG</title>
   
   <subtitle>CSYBLOG</subtitle>
-  <link href="http://csyismanu.github.io/atom.xml" rel="self"/>
+  <link href="https://csyismanu.github.io/atom.xml" rel="self"/>
   
-  <link href="http://csyismanu.github.io/"/>
+  <link href="https://csyismanu.github.io/"/>
   <updated>2020-09-12T16:10:19.878Z</updated>
-  <id>http://csyismanu.github.io/</id>
+  <id>https://csyismanu.github.io/</id>
   
   <author>
     <name>csy</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://csyismanu.github.io/2020/09/13/hello-world/"/>
-    <id>http://csyismanu.github.io/2020/09/13/hello-world/</id>
+    <link href="https://csyismanu.github.io/2020/09/13/hello-world/"/>
+    <id>https://csyismanu.github.io/2020/09/13/hello-world/</id>
     <published>2020-09-12T16:10:19.878Z</published>
     <updated>2020-09-12T16:10:19.878Z</updated>
     
